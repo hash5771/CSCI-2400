@@ -1,0 +1,7 @@
+48 c7 c7 4b da b8 40 c3
+aa aa aa aa aa aa aa aa
+aa aa aa aa aa aa aa aa
+aa aa aa aa aa aa aa aa
+aa aa aa aa aa aa aa aa
+48 6d 65 55 00 00 00 00
+62 14 40 00 00 00 00 00
